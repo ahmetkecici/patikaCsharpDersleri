@@ -1,1 +1,1 @@
-# patikaCsharpDersleri
+# C# Derslerii
